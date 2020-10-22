@@ -30,7 +30,7 @@ include_once("../../assets/static_pages/khr_page_top.php");
     3DC-Asset-Creation-Registry </a> Github project. </p>
 
 <p> For feedback on the Specifications, file an issue in the <a
-    href="https://github.com/KhronosGroup/https://github.com/KhronosGroup/3DC-Asset-Creation">
+    href="https://github.com/KhronosGroup/3DC-Asset-Creation">
     3D Commerce Asset Creation</a> Github project. </p>
 
 <?php include_once("../../assets/static_pages/khr_page_bottom.php"); ?>
