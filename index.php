@@ -1,7 +1,7 @@
 <?php
 $static_title = 'Khronos 3D Commerce Asset Creation Models Specification Registry';
 
-include_once("../../assets/static_pages/khr_page_top.php");
+include_once("../../../assets/static_pages/khr_page_top.php");
 ?>
 
 <p> The Khronos 3D Commerce Asset Creation Models Specification registry
@@ -33,6 +33,6 @@ include_once("../../assets/static_pages/khr_page_top.php");
     href="https://github.com/KhronosGroup/3DC-Asset-Creation">
     3D Commerce Asset Creation</a> Github project. </p>
 
-<?php include_once("../../assets/static_pages/khr_page_bottom.php"); ?>
+<?php include_once("../../../assets/static_pages/khr_page_bottom.php"); ?>
 </body>
 </html>
